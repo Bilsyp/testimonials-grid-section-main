@@ -38,7 +38,6 @@ body {
 }
 .container {
   display: grid;
-  border: 1px solid black;
   grid-template-columns: 1fr;
   gap: 2rem;
 }
